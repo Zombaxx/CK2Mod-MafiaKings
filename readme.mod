@@ -22,3 +22,16 @@ Faiterial's buildings
 Cipher's More Realm Laws (Army Professionalism and tax laws)
 Nuubialainen- Personal Castle Mod (training yard, library events )
 DaMonkey- Knights and Squires
+
+Feudal New York Backstory:
+
+The United States remained suspended for 100s of years in a 1920s-like state by Mafia and corporate politicians delaying the Big Crash by hindering any progress that was not 
+directly related to perpetual short-term profits at the expensive of the populace, or enhancements for the powerful such as breakthroughs in cybernetic technologies. 
+
+When the delayed Great Crash finally came it was as if the momentum had exponentially grown since the long era had begun in the 1920s. It was not only Wall Street that crashed, 
+it was a ticket back to the Dark Ages for Earth-bound society at large as governments shattered synchronously with the breakdown of most supply lines and infrastructure needed 
+to produce electronics, mechanics, and most modern goods. New York City was considered a safe zone protected by the corporations, and unofficially by the syndicates, as the 
+outside world decayed into wasteland. Those not affiliated with these organizations, and without power of their own, became the new serfs of this post-corporate neofeudal era 
+of fractured urban dystopias.
+
+Even though the world has devolved back into a mostly low-tech mafia and corporate-remnant controlled feudalism in a literal sense in the centuries that followed, the surviving skyscrapers of The City have become more important than ever with most of the world outside the city walls being an uninhabitable wasteland, severely limiting horizontal living area. Because most technical efforts are put toward maintaining the skyscrapers and the walls, guns have become extremely uncommon as a result and were largely confiscated and destroyed by the federal government of old shortly before its collapse, and melee weapons once against rule battles.
