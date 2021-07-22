@@ -334,7 +334,7 @@ character_event = {
 		# }
 		# modifier = {
 			# factor = 0.5
-			# religion_group = christsian
+			# religion_group = christian
 			# NOT = { trait = patient }
 		# }
 	# }
@@ -850,7 +850,7 @@ character_event = {
 		# }
 	# }
 	# option = {
-		# trigger = { religion_group = christsian }
+		# trigger = { religion_group = christian }
 		# # You are an abomination
 		# name = "EVTOPTDCYBERNETICS10021"
 		# piety = 100
@@ -999,7 +999,7 @@ character_event = {
 	id = cybernetics.10030
 	desc = "EVTDESCYBERNETICS10030"
 	picture = GFX_evt_cybernetics
-	border = GFX_evt_normal_frame_diplomacy
+	border = GFX_event_normal_frame_diplomacy
 	
 	min_age = 16
 	capable_only = yes
@@ -1193,7 +1193,7 @@ character_event = {
 	id = cybernetics.10032
 	desc = "EVTDESCYBERNETICS10030"
 	picture = GFX_evt_cybernetics
-	border = GFX_evt_normal_frame_stewardship
+	border = GFX_event_normal_frame_economy
 	
 	min_age = 16
 	capable_only = yes
@@ -1290,7 +1290,7 @@ character_event = {
 	id = cybernetics.10033
 	desc = "EVTDESCYBERNETICS10030"
 	picture = GFX_evt_cybernetics
-	border = GFX_evt_normal_frame_intrigue
+	border = GFX_event_normal_frame_intrigue
 	
 	min_age = 16
 	capable_only = yes
@@ -1387,7 +1387,7 @@ character_event = {
 	id = cybernetics.10034
 	desc = "EVTDESCYBERNETICS10030"
 	picture = GFX_evt_cybernetics
-	border = GFX_evt_normal_frame_learning
+	border = GFX_event_normal_frame_religion
 	
 	min_age = 16
 	capable_only = yes
@@ -1644,7 +1644,7 @@ character_event = {
 			}
 			modifier = {
 				factor = 0.2
-				religion_group = christsian
+				religion_group = christian
 				NOT = { trait = patient }
 			}
 		}
@@ -1877,14 +1877,14 @@ character_event = {
 			opinion = { who = ROOT modifier = opinion_happy_with_guardian }
 			hidden_tooltip = { character_event = { id = cybernetics.10048 } }
 			if = {
-				limit = { father = { religion_group = christsian } }
+				limit = { father = { religion_group = christian } }
 				father = {
 					opinion = { who = ROOT modifier = opinion_massacred_my_child }
 					hidden_tooltip = { character_event = { id = cybernetics.10049 } }
 				}
 			}
 			if = {
-				limit = { mother = { religion_group = christsian } }
+				limit = { mother = { religion_group = christian } }
 				mother = {
 					opinion = { who = ROOT modifier = opinion_massacred_my_child }
 					hidden_tooltip = { character_event = { id = cybernetics.10049 } }
@@ -1899,7 +1899,7 @@ character_event = {
 			piety = 100
 		}
 		if = {
-			limit = { religion_group = christsian }
+			limit = { religion_group = christian }
 			piety = -100
 		}
 		ai_chance = {
@@ -1926,7 +1926,7 @@ character_event = {
 			}
 			modifier = {
 				factor = 0.2
-				religion_group = christsian
+				religion_group = christian
 				NOT = { trait = patient }
 			}
 			modifier = {
@@ -1934,7 +1934,7 @@ character_event = {
 				FROM = {
 					father = {
 						is_alive = yes
-						religion_group = christsian
+						religion_group = christian
 					}
 				}
 				NOT = { trait = brave }
@@ -1944,7 +1944,7 @@ character_event = {
 				FROM = {
 					mother = {
 						is_alive = yes
-						religion_group = christsian
+						religion_group = christian
 					}
 				}
 				NOT = { trait = brave }

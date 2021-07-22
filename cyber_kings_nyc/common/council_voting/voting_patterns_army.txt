@@ -25,14 +25,11 @@ selfish_pattern_for = {
 			}
 		}
 	}
-	
-
 }
 
 selfish_pattern_against = {
 	icon = 9
 	pattern_type = against
-	
 
 	army_professionalism_law_2 = {	
 		custom_tooltip = {
@@ -86,7 +83,6 @@ pragmatist_pattern_for = {
 			}
 		}
 	}
-
 }
 
 pragmatist_pattern_against = {
@@ -172,16 +168,7 @@ zealot_pattern_for = {
 			}
 		}				
 	}
-	army_professionalism_law_1 = { 
-		custom_tooltip = {
-			text = army_indifferent
-			liege = {
-				primary_title = { has_law = army_professionalism_law_0 }
-			}
-		}				
-	}
 }
-
 zealot_pattern_against = {
 	icon = 5
 	pattern_type = against
