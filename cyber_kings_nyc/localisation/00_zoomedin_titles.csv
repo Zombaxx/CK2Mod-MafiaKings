@@ -9,23 +9,23 @@ city_duke_muslim;Boss;Wali Émir;Boss;;Emir-Valí;;;;;;;;;x
 city_count;Supervisor;Bourgmestre;Oberbürgermeister;;Gran Alcalde;;;;;;;;;x
 city_count_muslim;Supervisor;Wali;Supervisor;;Valí;;;;;;;;;x
 city_baron;Shop Keeper;Bourgmestre;Bürgermeister;;Alcalde;;;;;;;;;x
-city_count_female;Lady Mayor;Bourgmestre;Oberbürgermeisterin;;Gran Alcalde;;;;;;;;;x
+city_count_female;Supervisor;Bourgmestre;Oberbürgermeisterin;;Gran Alcalde;;;;;;;;;x
 city_baron_female;Shop Keeper;Bourgmestre;Bürgermeisterin;;Alcalde;;;;;;;;;x
 
 barony_of;Service Business on;;;;;;;;;;;;;x
-city_barony_of;Industrial Complex on;;;;;;;;;;;;;x
+city_barony_of;Business Complex on;;;;;;;;;;;;;x
 temple_barony_of;Community Center on;;;;;;;;;;;;;x
 barony;Service Business;;;;;;;;;;;;;x
-city_barony;Industrial Complex;;;;;;;;;;;;;x
+city_barony;Business Complex;;;;;;;;;;;;;x
 temple_barony;Community Center;;;;;;;;;;;;;x
-castle;Service Business;;;;;;;;;;;;;x
-city;Industrial Complex;;;;;;;;;;;;;x
+castle;Feudal Complex;;;;;;;;;;;;;x
+city;Business Complex;;;;;;;;;;;;;x
 temple;Community Center;;;;;;;;;;;;;x
 castle_desc;Shops, bars, caffes or restaurants.;;;;;;;;;;;;;x
 city_desc;Construction companies, landfills, delivery services or factories.;;;;;;;;;;;;;x
 temple_desc;Public spaces and institutions, theatres or cultural hotspots.;;;;;;;;;;;;;x
-CITY_TAX_MODIFIER;Industrial Tax;;;;;;;;;;;;;x
-CASTLE_TAX_MODIFIER;Business Tax;;;;;;;;;;;;;x
+CITY_TAX_MODIFIER;Business Tax;;;;;;;;;;;;;x
+CASTLE_TAX_MODIFIER;Feudal Tax;;;;;;;;;;;;;x
 TEMPLE_TAX_MODIFIER;Community Tax;;;;;;;;;;;;;x
 same_dynasty;Same Family;;;;;;;;;;;;;x
 
@@ -177,7 +177,13 @@ temple_baron_finnish_pagan_reformed;Shaman;Chamane;Schamane;;Chamán;;;;;;;;;x
 #city;Caporegime;;;;;;;;;;;;;x
 #tribal;Caporegime;;;;;;;;;;;;;x
 
-republic_government;Business;;;;;;;;;;;;;x
+feudal_government;Feudal;Féodalité;Feudalsystem;;Feudal;;;;;;;;;x
+republic_government;Business;République;Republik;;república;;;;;;;;;x
+merchant_republic_government;Syndicate;République marchande;Handelsrepublik;;República mercante;;;;;;;;;x
+theocracy_government;Theocracy;Théocratie;Theokratie;;teocracia;;;;;;;;;x
+muslim_government;Iqta;Iqtâ;Iqta;;Iqta;;;;;;;;;x
+tribal_government;Bandit;Organisation tribale;Stammesregierung;;Tribal;;;;;;;;;x
+nomadic_government;Raider;;;;;;;;;;;;;x
 empire;Borough;;;;;;;;;;;;;x
 kingdom;Community;;;;;;;;;;;;;x
 duchy;District;;;;;;;;;;;;;x
